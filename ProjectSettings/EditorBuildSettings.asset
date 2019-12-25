@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene menu.unity
+    guid: 5a3cedcb509bf604eaa39b8b72adc747
+  - enabled: 1
+    path: Assets/Scene test.unity
+    guid: 2a84bf80cfc431640ad88aba4af979d3
